@@ -22,8 +22,8 @@ Co-Snip is built using a variety of technologies to ensure performance, responsi
 
 ### Homepage and other
 
-![Homepage Screenshot]([homepage1.png](https://github.com/01fe21bcs108/Co-Snip/blob/master/assets/hompage1.png))
-![Homepage Screenshot](homepage.png)
+![Homepage Screenshot](assets/homepage1.png)
+![Homepage Screenshot](assets/homepage.png)
 
 ### Themes
 
