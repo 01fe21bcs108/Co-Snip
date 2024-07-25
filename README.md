@@ -43,3 +43,40 @@ Co-Snip is built using a variety of technologies to ensure performance, responsi
    ```bash
    git clone https://github.com/01fe21bcs108/Co-Snip.git
    cd Co-Snip
+   ```
+2.   **Build the Rust project**:
+
+   ```bash
+
+cargo build --release
+```
+3. **Install Node.js dependencies**:
+
+```bash
+
+cd web
+npm install
+```
+4. **Run the application**:
+
+```bash
+
+npm start
+```
+**Using Docker**
+To run the application using Docker, use the following commands:
+
+1.  **Build the Docker image**:
+
+```bash
+
+docker build -t co-snip .
+```
+2.  **Run the Docker container**:
+
+```bash
+
+docker run -p 8080:8080 co-snip
+```
+
+**THANKYOU**
