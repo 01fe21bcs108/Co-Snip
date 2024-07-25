@@ -79,4 +79,5 @@ docker build -t co-snip .
 docker run -p 8080:8080 co-snip
 ```
 
-## THANK YOU
+### THANK YOU 
+#### FEEL FREE TO MAKE CONTRIBUTIONS!
